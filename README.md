@@ -8,7 +8,7 @@ To write a python program to implement K-Means Clustering Algorithm.
 ## Algorithm:
 
 ### Step1
-import pandas module to use the built-in functions for 
+import pandas module to use the built-in functions for calculation.
 ### Step2
 Read the csv file.
 ### Step3
